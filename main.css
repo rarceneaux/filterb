@@ -1,0 +1,25 @@
+body{
+  background-color:wheat
+}
+
+#actors{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card{
+  padding: 25px;
+  margin: 25px;
+}
+
+.card-top-img{
+  height: 200px;
+  width: 200px;
+}
+
+#here{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
